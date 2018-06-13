@@ -29,5 +29,11 @@
 
 ## Tricks (招数 & 套路)
 
+### Code Fragment（代码片段）
+|网站|描述|
+|:---|:---|
+|[日期格式化](https://github.com/zaClub/za-tricks/issues/1)|传入日期对象，返回格式化后的日期字符串，形如 2018-06-13 18:11:32|
+|[防抖（Debounce）和节流（Throttle）](https://github.com/PolluxLee/blog/issues/4)|防抖和节流实用代码片段|
+|[Swap](https://github.com/PolluxLee/blog/issues/49)|不使用额外空间，交换两个变量的数值|
 
 ## Traps (坑)
