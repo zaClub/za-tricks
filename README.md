@@ -1,6 +1,7 @@
 ## Guide (资源 & 工具书)
 
 ### JavaScript
+
 |网站|描述|
 |:---|:---|
 |[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|JavaScript 权威网站|
@@ -18,13 +19,15 @@
 |[Flexbox Froggy](http://flexboxfroggy.com/)|flex 布局小游戏|
 |[Grid Garden](http://cssgridgarden.com/)|grid 布局小游戏|
 
-## Tricks (招数 & 套路)
-
 ### Tools
+
 |网站|描述|
 |:---|:---|
 |[CODELF](https://unbug.github.io/codelf/)|写代码的时候不知道怎么命名？这个可以解决（支持中文）|
 |[Language Code](http://www.lingoes.cn/zh/translator/langcode.htm)|各个国家对应的语言代码表|
 |[Iconfont](http://www.iconfont.cn/)|阿里图标网站|
+
+## Tricks (招数 & 套路)
+
 
 ## Traps (坑)
