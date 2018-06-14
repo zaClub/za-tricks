@@ -37,3 +37,6 @@
 |[Swap](https://github.com/PolluxLee/blog/issues/49)|不使用额外空间，交换两个变量的数值|
 |[串行执行任务](https://github.com/AymaxLi/AymaxLi.github.io/issues/2)|使用多种方法串行执行 JavaScript 同步/异步任务|
 ## Traps (坑)
+|网站|描述|
+|:---|:---|
+|[小程序没有原生支持 cookie 的解决办法](https://github.com/AymaxLi/AymaxLi.github.io/issues/3)|利用小程序离线缓存，对浏览器的 cookie 功能进行 polyfill|
