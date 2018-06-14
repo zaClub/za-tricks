@@ -39,4 +39,4 @@
 ## Traps (坑)
 |网站|描述|
 |:---|:---|
-|[微信小程序没有自动携带 cookie](https://github.com/AymaxLi/AymaxLi.github.io/issues/3)|利用小程序离线缓存，对浏览器的 cookie 功能进行 polyfill|
+|[小程序发请求没有自动携带 cookie](https://github.com/AymaxLi/AymaxLi.github.io/issues/3)|利用小程序离线缓存，对浏览器的 cookie 功能进行 polyfill|
