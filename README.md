@@ -32,7 +32,7 @@
 ### Mini Program（小程序）
 |文章|描述|
 |:---|:---|
-|[小程序图片懒加载实用技巧](https://github.com/PolluxLee/blog/issues/54)||
+|[小程序图片预加载实用技巧](https://github.com/PolluxLee/blog/issues/54)||
 
 ### Code Fragment（代码片段）
 |文章|描述|
