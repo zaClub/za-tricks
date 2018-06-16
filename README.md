@@ -7,9 +7,12 @@
 |[MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)|JavaScript 权威网站|
 |[JavaScript高级程序设计（第3版）](https://book.douban.com/subject/10546125/)|JavaScript 红宝书，一定要过一遍|
 |[You Don't Know JS](https://book.douban.com/subject/25986786/)|扫盲书，讲一些你不知道的 JavaScript 知识点和坑|
+|[freeCodeCamp](https://www.freecodecamp.org/)|如果想从头系统梳理知识的，可以看这个，跟慕课上的形式差不多|
 |[JavaScript 标准参考教程（alpha）](http://javascript.ruanyifeng.com/)|阮一峰的文章适合入门和做参考，如遇到搞不懂的还是找 MDN 和高设|
 |[阮一峰 ES6](http://es6.ruanyifeng.com/#docs/intro)|了解 ES6|
 |[JavaScript Weekly](https://javascriptweekly.com/)|英文比较好和想进阶的可订阅 JavaScript Weekly|
+|[envato-tuts+](https://webdesign.tutsplus.com/courses)|新发现的一个网站|
+|前端大全、JavaScript|这两个公众号不错，可以关注|
 
 ### CSS
 
