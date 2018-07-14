@@ -12,7 +12,7 @@
 |[阮一峰 ES6](http://es6.ruanyifeng.com/#docs/intro)|了解 ES6|
 |[JavaScript Weekly](https://javascriptweekly.com/)|英文比较好和想进阶的可订阅 JavaScript Weekly|
 |[envato-tuts+](https://webdesign.tutsplus.com/courses)|新发现的一个网站|
-|前端大全、JavaScript|这两个公众号不错，可以关注|
+|前端大全、JavaScript、奇舞周刊|这几个公众号不错，可以关注|
 
 ### CSS
 
