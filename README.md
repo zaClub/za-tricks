@@ -24,6 +24,18 @@
 |[Flexbox Froggy](http://flexboxfroggy.com/)|flex 布局小游戏|
 |[Grid Garden](http://cssgridgarden.com/)|grid 布局小游戏|
 
+### 不错的博客
+
+|作者|地址|
+|:---|:---|
+|颜海镜|https://yanhaijing.com/|
+|mqyqingfeng|https://github.com/mqyqingfeng/Blog/issues|
+|jawil|https://github.com/jawil/blog/issues|
+
+### 电子书
+
+https://github.com/threerocks/studyFiles
+
 ### Tools
 
 |网站|描述|
@@ -49,7 +61,7 @@
 |文章|描述|
 |:---|:---|
 |[日期格式化](https://github.com/zaClub/za-tricks/issues/1)|传入日期对象，返回格式化后的日期字符串，形如 2018-06-13 18:11:32|
-|[防抖（Debounce）和节流（Throttle）](https://github.com/PolluxLee/blog/issues/4)|防抖和节流实用代码片段|
+|[防抖与节流](https://github.com/PolluxLee/blog/issues/4)|防抖和节流实用代码片段|
 |[Swap](https://github.com/PolluxLee/blog/issues/49)|不使用额外空间，交换两个变量的数值|
 |[串行执行任务](https://github.com/AymaxLi/AymaxLi.github.io/issues/2)|使用多种方法串行执行 JavaScript 同步/异步任务|
 
